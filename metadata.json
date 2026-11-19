@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tes Sumatif Kelas V",
+  "description": "Aplikasi Tes Sumatif Matematika  Kelas V SD Negeri 1 Airkuning dengan 4 tahap tes, sinkronisasi Google Spreadsheet, unduh PDF naskah \u0026 hasil tes, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
